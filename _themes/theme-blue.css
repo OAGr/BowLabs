@@ -1,0 +1,58 @@
+#wrapper  																		{ background:#2a89b0;border-top:1px solid #4d99b8; }
+#nav 																			{ border-right:1px solid #4c9cbd; }
+
+#nav li:hover 																	{ color:#fff;background:#2781A5; }
+#nav li.active 																	{ color:#fff;background:#216c8b; }
+
+.separator 																		{ height:1px;margin:30px 0;background:#4c9cbd; }
+.separator2 																	{ height:1px;margin:20px 0;background:#4c9cbd; }
+
+.ui-slider-handle 																{ background-color:#216c8b; }
+
+.recent-work div > a 															{ color:#4c9cbd; }
+
+.button 																		{ background:#216c8b; }
+.effect:hover 																	{ color:#fff;background:#13455a; }
+
+#nav ul .nav-icon-home 															{ background:url('../_themes/theme-blue/icon-home.png') no-repeat; } 
+#nav ul .nav-icon-resume 														{ background:url('../_themes/theme-blue/icon-resume.png') no-repeat; } 
+#nav ul .nav-icon-showcase 														{ background:url('../_themes/theme-blue/icon-showcase.png') no-repeat; } 
+#nav ul .nav-icon-contact 														{ background:url('../_themes/theme-blue/icon-contact.png') no-repeat; } 
+
+#contact-form-wrapper input 													{ color:#216c8b; }	
+#contact-form-wrapper textarea 													{ color:#216c8b; }	
+
+.social li																		{ background:#216c8b } 
+
+.social .twitter 																{ background-color:#216c8b } 
+.social .twitter:hover 															{ background-color:#13455a; }
+	
+.social .rss 																	{ background-color:#216c8b }
+.social .rss:hover 																{ background-color:#13455a; }
+	
+.social .skype 																	{ background-color:#216c8b }
+.social .skype:hover 															{ background-color:#13455a; }
+	
+.social .in 																	{ background-color:#216c8b; }
+.social .in:hover 																{ background-color:#13455a; }
+
+#showcase-wrapper .col-350 .image-overlay 	div a 								{ color:#4c9cbd; }
+
+.wr-reference span 																{ color:#1A5064; }
+
+#wrapper-resume .col-315 h1 													{ border-bottom:1px solid #3ca7ad; }
+
+#nav li { border-bottom:1px solid #4c9cbd;text-shadow:0 1px #216c8b; }
+#contact-wrapper { border-bottom:1px solid #4c9cbd; }
+
+#nav .active .nav-icon-home 													{ background:url('../_themes/theme-blue/icon-home-active.png') no-repeat; } 
+#nav .active .nav-icon-resume 													{ background:url('../_themes/theme-blue/icon-resume-active.png') no-repeat; } 
+#nav .active .nav-icon-showcase 												{ background:url('../_themes/theme-blue/icon-showcase-active.png') no-repeat; } 
+#nav .active .nav-icon-contact 													{ background:url('../_themes/theme-blue/icon-contact-active.png') no-repeat; } 
+#nav ul span { text-shadow:0 1px #216c8b; } 
+h1 { text-shadow:0 1px #216c8b;}
+h2 {text-shadow:0 1px #216c8b; }
+h3 { text-shadow:0 1px #216c8b;}
+h4 {text-shadow:0 1px #216c8b; }
+#home-wrapper { border-bottom:1px solid #4c9cbd; }
+#home-wrapper-work { border-top:1px solid #4c9cbd; }
