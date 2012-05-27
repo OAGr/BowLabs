@@ -43,7 +43,7 @@
 		//##
 		//## Attach the colorbox
 		//##
-		$('.recent-work div a').colorbox(); 
+		//$('.recent-work div a').colorbox(); 
 		
 		
 		//##

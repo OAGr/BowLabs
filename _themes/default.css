@@ -36,6 +36,10 @@
 .social .in 																	{ background-color:#96422c; }
 .social .in:hover 																{ background-color:#6c2e1d; }
 
+.social .email 																	{ background-color:#96422c; }
+.social .email:hover 																{ background-color:#6c2e1d; }
+
+
 #showcase-wrapper .col-350 .image-overlay 	div a 								{ color:#be5438; }
 
 .wr-reference span 																{ color:#642E1F; }

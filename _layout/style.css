@@ -75,7 +75,8 @@ html[xmlns] .clearfix, html[xmlns] .section, html[xmlns] .fixed, html[xmlns] .ro
 	.col-385 																		{ width:385px;float:left;margin-right:30px; }
 	.col-400 																		{ width:400px;float:left;margin-right:30px; }
 	.col-315 																		{ width:315px;float:left;margin-right:30px; }
-	
+  .col-322	                                 	{ width:322px;float:left;margin-right:0px; }
+
 	.col-220 																		{ width:220px;float:left;margin-right:30px; }
 	
 	.separator-resume 																{ height:1px;margin:18px 0 30px 0;background:#3ca7ad; }
@@ -204,6 +205,7 @@ html[xmlns] .clearfix, html[xmlns] .section, html[xmlns] .fixed, html[xmlns] .ro
 	.recent-work 																	{ width:705px; } 
 	.recent-work h2 																{ line-height:22px;font-size:16px; }
 	.recent-work li 																{ position:relative;width:215px;float:left;margin-right:30px; } 
+	.recent-work li img  																{ border: 1px solid #222;} 
 	.recent-work div 																{ position:absolute;height:100px;width:215px;bottom:0;right:0;background:url('images/back-home-work-overlay.png') no-repeat;background:rgba(0,0,0,0.8);z-index:999;cursor:pointer;text-align:Center;display:none; } 
 	.recent-work div > a 															{ font-size:30px;line-height:100px;display:block;}
 	
@@ -220,11 +222,11 @@ html[xmlns] .clearfix, html[xmlns] .section, html[xmlns] .fixed, html[xmlns] .ro
 	
 	.social .rss 																	{ background:url(images/icon-rss.png) no-repeat center center;}
 	
-	.social .email 																	{ background:url(images/icon-mail.png) no-repeat center center;}
-
 	.social .skype 																	{ background:url(images/icon-skype.png) no-repeat center center; }
 	
 	.social .in 																	{ background:url(images/icon-in.png) no-repeat center center; }
+	
+  .social .email 																	{ background:url(images/icon-mail.png) no-repeat center center; }
 	
 	
 	/*----- Contact Page ----------------------------------------------------------------*/
